@@ -1,0 +1,3 @@
+class Room:
+    def study(self)
+        print("studying")
